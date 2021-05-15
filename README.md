@@ -34,5 +34,3 @@ I'm a professional full stack web developer with twelve years of working experie
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitriy-ustinov/)](https://www.linkedin.com/in/dmitriy-ustinov/)
 [![GitHub](https://img.shields.io/badge/-GitHub-lightgrey?style=flat&logo=github&logoColor=white&link=https://github.com/AkibaWolf/)](https://github.com/AkibaWolf/)
 [![Instagram](https://img.shields.io/badge/-Instagram-orange?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/akibawolf/)](https://www.instagram.com/akibawolf/)
-
-<hr>
