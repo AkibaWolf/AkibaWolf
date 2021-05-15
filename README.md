@@ -5,7 +5,6 @@
 I'm a professional full stack web developer with twelve years of working experience.
 
 [![Years Badge](https://badges.pufler.dev/years/AkibaWolf)](https://badges.pufler.dev/years/AkibaWolf)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/AkibaWolf)](https://badges.pufler.dev/commits/monthly/AkibaWolf)
 [![Visits Badge](https://badges.pufler.dev/visits/AkibaWolf/AkibaWolf)](https://badges.pufler.dev/visits/AkibaWolf/AkibaWolf)
 
 <hr>
