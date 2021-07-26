@@ -24,7 +24,7 @@ I'm a professional full stack web developer with twelve years of working experie
 ![CSS3](https://img.shields.io/badge/-CSS3-white?style=flat&logo=css3&logoColor=1572b6)
 ![Sass](https://img.shields.io/badge/-Sass-white?style=flat&logo=sass&logoColor=1572b6)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-white?style=flat&logo=bootstrap&logoColor=563d7c)
-![Vue.js](https://img.shields.io/badge/-Vue.js-white?style=flat&logo=vue-dot-js)
+![Vue.js](https://img.shields.io/badge/-Vue.js-white?style=flat&logo=vuedotjs)
 ![Docker](https://img.shields.io/badge/Docker-white?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-white?style=flat&logo=git)
 
