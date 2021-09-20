@@ -1,4 +1,6 @@
-# 🐺 Hello World!<a href="https://www.akibawolf.com" target="_blank"><img src="https://akibawolf.com/images/logo-akibawolf-github-grey.png" alt="AkibaWolf" align="right" width="200" height="172" /></a>
+# 🐺 Hello World!
+
+<a href="https://akibawolf.github.io" target="_blank"><img src="https://akibawolf.com/images/logo-akibawolf-grey.png" alt="AkibaWolf" align="right" width="162" height="50" /></a>
 
 I'm a professional full stack web developer with twelve years of working experience.
 
