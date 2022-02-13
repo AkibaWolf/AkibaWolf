@@ -32,7 +32,6 @@ I'm a professional full stack web developer with twelve years of working experie
 
 ## 🔗 Follow me
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0077b5?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/dmitriy-ustinov/)](https://www.linkedin.com/in/dmitriy-ustinov/)
 [![GitHub](https://img.shields.io/badge/-GitHub-4078c0?style=flat&logo=github&logoColor=white&link=https://github.com/AkibaWolf/)](https://github.com/AkibaWolf/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-f09a1a?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/AkibaWolf/)](https://leetcode.com/AkibaWolf/)
 [![Codewars](https://img.shields.io/badge/-Codewars-b1361e?style=flat&logo=codewars&logoColor=white&link=https://www.codewars.com/users/AkibaWolf/)](https://www.codewars.com/users/AkibaWolf/)
