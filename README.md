@@ -4,10 +4,10 @@
 
 I'm a professional full stack web developer with thirteen years of working experience.
 
-[![Years Badge](https://badges.strrl.dev/years/AkibaWolf?color=C2D3E8)](https://github.com/AkibaWolf)
-[![Monthly Contributions Badge](https://badges.strrl.dev/contributions/monthly/AkibaWolf?color=EED4B0)](https://github.com/AkibaWolf)
-[![Yearly Contributions Badge](https://badges.strrl.dev/contributions/yearly/AkibaWolf?color=F3E2CA)](https://github.com/AkibaWolf)
-[![Total Contributions Badge](https://badges.strrl.dev/contributions/all/AkibaWolf?color=F7EBDB)](https://github.com/AkibaWolf)
+[![Years Badge](https://badges.strrl.dev/years/AkibaWolf?style=flat&color=C2D3E8&labelColor=F7F7F7)](https://github.com/AkibaWolf)
+[![Monthly Contributions Badge](https://badges.strrl.dev/contributions/monthly/AkibaWolf?style=flat&color=EED4B0&labelColor=F7F7F7)](https://github.com/AkibaWolf)
+[![Yearly Contributions Badge](https://badges.strrl.dev/contributions/yearly/AkibaWolf?style=flat&color=F3E2CA&labelColor=F7F7F7)](https://github.com/AkibaWolf)
+[![Total Contributions Badge](https://badges.strrl.dev/contributions/all/AkibaWolf?style=flat&color=F7EBDB&labelColor=F7F7F7)](https://github.com/AkibaWolf)
 
 <hr>
 
