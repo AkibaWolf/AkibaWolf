@@ -2,10 +2,12 @@
 
 <a href="https://akibawolf.github.io" target="_blank"><img src="https://akibawolf.com/images/logo-akibawolf-grey.png" alt="AkibaWolf" align="right" width="162" height="50" /></a>
 
-I'm a professional full stack web developer with twelve years of working experience.
+I'm a professional full stack web developer with thirteen years of working experience.
 
-[![Years Badge](https://badges.pufler.dev/years/AkibaWolf)](https://badges.pufler.dev/years/AkibaWolf)
-[![Visits Badge](https://badges.pufler.dev/visits/AkibaWolf/AkibaWolf)](https://badges.pufler.dev/visits/AkibaWolf/AkibaWolf)
+[![Years Badge](https://badges.strrl.dev/years/AkibaWolf?color=C2D3E8)](https://github.com/AkibaWolf)
+[![Monthly Contributions Badge](https://badges.strrl.dev/contributions/monthly/AkibaWolf?color=EED4B0)](https://github.com/AkibaWolf)
+[![Yearly Contributions Badge](https://badges.strrl.dev/contributions/yearly/AkibaWolf?color=F3E2CA)](https://github.com/AkibaWolf)
+[![Total Contributions Badge](https://badges.strrl.dev/contributions/all/AkibaWolf?color=F7EBDB)](https://github.com/AkibaWolf)
 
 <hr>
 
